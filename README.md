@@ -5,7 +5,6 @@
 <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"> 
 
 ## Overview 👀
-<img src="gitres/img.png">
 
 - ChatRoom is single page webapp where its user can choose diffrent chatroom for chatting
 - This project uses firebase's firestore as a backend service for storing and retreving chats all in real time
@@ -22,8 +21,7 @@
 ## How To Contribute🤝 
 - Yes,it is open source you can clone and change code to your need.
 - Most of the code is self explanatory, anyhow
-- for any clarification on code or want to contribute contact 
-- [Gmail] / [Twitter] /[LinkedIn]
+
 
 
 
