@@ -2,7 +2,7 @@
  A Firebase backed chat app with diffrent chatroom functionality
 
  ## Check it out [here]!
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"> 
+<href = "https://divinelight2002.github.io/Chatroom/"> 
 
 ## Overview 👀
 
