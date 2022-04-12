@@ -2,7 +2,7 @@
  A Firebase backed chat app with diffrent chatroom functionality
 
  ## Check it out [here]!
-<href = "https://divinelight2002.github.io/Chatroom/"> 
+"https://divinelight2002.github.io/Chatroom/"
 
 ## Overview 👀
 
